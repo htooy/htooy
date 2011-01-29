@@ -1,1 +1,1 @@
-0.2|http://htooy.googlecode.com/files/sysinfo(2011-01-28).tar
+0.3|http://htooy.googlecode.com/files/sysinfo(2011-01-28).tar
