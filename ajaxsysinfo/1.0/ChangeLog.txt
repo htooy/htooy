@@ -1,0 +1,44 @@
+Changes with 1.0                                         15 Feb 2011
+      *) Feature: 资源预警-->负载信息,空间使用率,真实内存使用率,Swap内存使用率.
+
+Changes with 0.9                                         12 Feb 2011
+      *) Feature: IPv6连接信息-->当前TCP/UDP连接数统计,
+                                 当前TCP/UDP连接状态统计,
+                                 当前TCP/UDP连接IP显示.
+      *) Change:  优化部分代码.
+
+Changes with 0.8                                          8 Feb 2011
+      *) Feature: IPv4连接信息-->当前TCP/UDP连接数统计,
+                                 当前TCP/UDP连接状态统计,
+                                 当前TCP/UDP连接IP显示.
+      *) Change:  优化部分代码.
+
+Changes with 0.7                                          6 Feb 2011
+      *) Bugfix:  物理内存信息-->内存使用率.
+                  Swap内存详情-->Swap内存使用率.
+      *) Feature: 物理内存信息-->真实已用内存,真实内存使用率.
+
+Changes with 0.6                                          5 Feb 2011
+      *) Feature: 系统时间-->开机时间.
+
+Changes with 0.5                                          1 Feb 2011
+      *) Bugfix:  磁盘信息-->空间使用率.
+
+Changes with 0.4                                         31 Jan 2011
+      *) Bugfix:  两处php短连接格式.
+
+Changes with 0.3                                         31 Jan 2011
+      *) Feature: 网卡信息-->网卡数量,网卡流量.
+
+Changes with 0.2                                         28 Jan 2011
+      *) Feature:  磁盘信息-->剩余空间,总计空间,空间使用率.
+                   内存信息-->物理内存详情-->总计内存,已用内存,缓冲区使用,空闲内存,内存使用率.
+                              Swap内存详情-->总计Swap内存,已用Swap内存,空闲Swap内存,Swap内存使用率.
+                   负载信息-->一分钟负载,五分钟负载,十五分钟负载,进程.
+                   系统时间-->运行时间,空闲时间,服务器时间,北京时间.
+                   MySQL状态-->只是简单的测试能否链接.
+      *) Security: B/S 简单的安全验证.
+
+Changes with 0.1                                         20 May 2010
+      *) The first version.
+         使用json+ajax实现了部分信息实时刷新，此版本为暂未完成的测试版.
