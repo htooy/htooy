@@ -1,5 +1,5 @@
 # Name:     PHP+Ajax 系统信息实时查看
-# Author:   Ladon.Q <htooy@htooy.org>
+# Author:   LadonQ <htooy@htooy.org>
 # Homepage: http://www.htooy.org/
 +------------------+
 	下载
