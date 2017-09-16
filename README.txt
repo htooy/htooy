@@ -2,11 +2,6 @@
 # Author:   LadonQ <htooy@htooy.org>
 # Homepage: http://www.htooy.org/
 +------------------+
-	下载
-+------------------+
-您可以随时从下面的链接下载到最新版本
-http://code.google.com/p/htooy/
-+------------------+
 	简介
 +------------------+
 本工具使用PHP语言编写,用Json+Ajax的方式,
